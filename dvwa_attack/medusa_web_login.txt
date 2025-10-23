@@ -1,0 +1,38 @@
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (1 of 5, 0 complete) Password: msfadmin (1 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: user Password: msfadmin [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (1 of 5, 1 complete) Password: password (2 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: user Password: password [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (1 of 5, 2 complete) Password: admin (3 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: user Password: admin [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: admin (2 of 5, 3 complete) Password: 123456 (1 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: admin Password: 123456 [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: admin (2 of 5, 4 complete) Password: admin (2 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: admin Password: admin [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: admin (2 of 5, 5 complete) Password: root (3 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: admin Password: root [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 5, 6 complete) Password: 123456 (1 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: root Password: 123456 [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 5, 7 complete) Password: admin (2 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: root Password: admin [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: root (3 of 5, 8 complete) Password: root (3 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: root Password: root [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (4 of 5, 9 complete) Password: 123456 (1 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: 123456 [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (4 of 5, 10 complete) Password: admin (2 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: admin [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: msfadmin (4 of 5, 11 complete) Password: root (3 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: msfadmin Password: root [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: administrator (5 of 5, 12 complete) Password: 123456 (1 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: administrator Password: 123456 [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: administrator (5 of 5, 13 complete) Password: admin (2 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: administrator Password: admin [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: administrator (5 of 5, 14 complete) Password: root (3 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: administrator Password: root [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (1 of 5, 15 complete) Password: root (4 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: user Password: root [SUCCESS]
+2025-10-23 15:58:24 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (1 of 5, 16 complete) Password: 12345 (5 of 6 complete)
+2025-10-23 15:58:24 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: user Password: 12345 [SUCCESS]
+2025-10-23 15:58:25 ACCOUNT CHECK: [http] Host: 192.168.56.102 (1 of 1, 0 complete) User: user (1 of 5, 17 complete) Password: 123456 (6 of 6 complete)
+2025-10-23 15:58:25 ACCOUNT FOUND: [http] Host: 192.168.56.102 User: user Password: 123456 [SUCCESS]

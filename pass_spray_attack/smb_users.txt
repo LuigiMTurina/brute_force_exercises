@@ -1,0 +1,5 @@
+user
+msfadmin
+service
+root
+mysql
