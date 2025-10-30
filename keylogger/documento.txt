@@ -1,0 +1,1 @@
+This document is being monitorated by the keylogger.pyw and the keys typped here are being recorded at the log.txt file
